@@ -54,4 +54,3 @@ Navigate to `index.js` and complete the MVP challenges. Note that you need to sc
 ## Resources
 
 🦄 [Sprint Challenge Study Guide](https://www.notion.so/bloomtech/Unit-1-Sprint-1-Study-Guide-16f656025c8744458addb068e6348101)
-
